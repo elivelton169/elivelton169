@@ -1,7 +1,9 @@
-### Olá! Eu sou Elivelton Stefferson 🤙
+
+### Hi 🙂, I'm Elivelton Stefferson 🤙
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elivelton-stefferson-a44b32193/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](veltinho169@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elivelton.299/)
 
 ![Elivelton GitHub stats](https://github-readme-stats.vercel.app/api?username=elivelton169&show_icons=true&theme=dark)
 
@@ -17,4 +19,5 @@
 </div><br/>
 
 Apaixonado por tecnologia, Estudando para melhorar meu conhecimento e a vida das pessoas através da programação.
+
 
