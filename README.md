@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elivelton169&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu usono meu dia
+## Tecnologias que eu uso no meu dia
 
 <div style="dusplay: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
